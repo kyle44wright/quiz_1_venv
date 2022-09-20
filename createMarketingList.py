@@ -24,7 +24,7 @@
 import csv
 
 # open the vendorlist file
-
+infile=open()
 
 # create a csv object from the file object
 
